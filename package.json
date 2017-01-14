@@ -1,4 +1,7 @@
 {
+  "publishConfig": {
+    "access": "public"
+  },
   "name": "@treshugart/duct",
   "description": "Simple, tiny test library inspired by tape.",
   "main": "index.js",
