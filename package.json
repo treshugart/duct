@@ -1,6 +1,5 @@
 {
   "name": "@treshugart/duct",
-  "version": "1.0.0",
   "description": "Simple, tiny test library inspired by tape.",
   "main": "index.js",
   "scripts": {
