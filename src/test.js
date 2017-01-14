@@ -1,5 +1,5 @@
-import { fail, pass, suite, test } from './reporter';
-import summary from './summary';
+const { fail, pass, suite, test } = require('./reporter');
+const summary = require('./summary');
 
 let deferred = Promise.resolve();
 let depth = 0;
