@@ -1,0 +1,19 @@
+{
+  "name": "duct",
+  "version": "1.0.0",
+  "description": "Simple, tiny test library inspired by tape.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treshugart/duct.git"
+  },
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treshugart/duct/issues"
+  },
+  "homepage": "https://github.com/treshugart/duct#readme"
+}
